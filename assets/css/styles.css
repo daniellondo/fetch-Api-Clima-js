@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+form input{
+    width: 70vw;
+    height: 2rem;
+}
+
+#clima{
+    width: 50vw;
+    height: 50vh;
+    background-color: gray;
+    border-radius: 20px;
+    border: 2px solid darkgray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#clima p{
+    font-size: 2rem;
+    font-weight: bold;
+}
